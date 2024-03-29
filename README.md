@@ -1,6 +1,3 @@
-Certainly, here's a revised version of the privacy policy:
-
----
 
 **Privacy Policy for PhiLaw Education Apps**
 
@@ -40,6 +37,3 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@philaw.org.
 
---- 
-
-Feel free to incorporate this revised privacy policy into your app as needed.
