@@ -1,7 +1,7 @@
 
 **Privacy Policy for PhiLaw Education Apps**
 
-PhiLaw Education Apps ("us", "we", or "our") operates the [Your App Name] mobile application (the "App").
+PhiLaw Education Apps ("us", "we", or "our") operates the mobile application (the "App").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App and the choices you have associated with that data.
 
